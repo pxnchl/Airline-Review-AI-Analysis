@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1,ROC_AUC
+Random Forest (Numerical),0.9604,0.919,0.9553,0.9368,0.9911
+Logistic Regression (Numerical),0.9579,0.9059,0.9632,0.9337,0.9853
+Random Forest (Text),0.9401,0.8768,0.9368,0.9059,0.9868
+Logistic Regression (Text),0.9506,0.8919,0.9553,0.9225,0.9856
+Random Forest (Combined),0.9725,0.9459,0.9658,0.9557,0.9966
+Logistic Regression (Combined),0.9676,0.9293,0.9684,0.9485,0.989
