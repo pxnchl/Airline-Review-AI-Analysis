@@ -28,4 +28,4 @@ This project is an end-to-end Data Science pipeline that analyzes **6,000+ custo
 2. Run the pipeline: `python run_project_v2.py`
 
 ---
-*Developed by **meetp** in collaboration with Antigravity AI.*
+*Developed by **meetp***
