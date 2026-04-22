@@ -1,0 +1,30 @@
+PROJECT OVERVIEW: AIRLINE CUSTOMER REVIEW ANALYTICS
+
+1. EXECUTIVE SUMMARY (Non-Technical)
+The Goal: To understand why passengers recommend or reject specific airlines by analyzing over 6,000 customer reviews.
+
+What we did: We built an AI system that "reads" human reviews and translates them into data. By combining these reviews with numerical ratings (like food quality and seat comfort), we created a predictive engine that can guess if a passenger is happy with 97% accuracy.
+
+The Top 3 Findings:
+- Value for Money is King: This is the #1 driver of recommendations.
+- Staff are the Backbone: Most passengers actually like the flight attendants.
+- Expectation Gap: Business travelers are much harder to please than leisure travelers.
+
+2. TECHNICAL IMPLEMENTATION (The Pillars)
+Pillar 1: Data Wrangling (Pandas/NumPy)
+- Handles missing values and organizes messy data.
+Pillar 2: NLP - Natural Language Processing (VADER/TF-IDF)
+- Converts human language into numerical "Mood Scores" and word weights.
+Pillar 3: Predictive Modeling (Random Forest/XGBoost)
+- The AI "Brain" that learns patterns to predict recommendations.
+Pillar 4: Optimization (Tuning)
+- Fine-tunes thousands of settings to get the best performance.
+Pillar 5: Data Visualization
+- Turns complex math into easy-to-read charts.
+
+3. KEY RESULTS
+- Peak Accuracy: 97.25%
+- Near-perfect model performance (0.99 ROC-AUC).
+- All 15 charts saved in your folder.
+
+Created by meetp & Antigravity AI
