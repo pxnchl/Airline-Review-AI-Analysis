@@ -1,6 +1,7 @@
 """
 ===========================================================================
 ITAG7105 — AIRLINE CUSTOMER REVIEWS ANALYTICS (VERSION 2: MODERN TECH)
+Author: meetp
 ===========================================================================
 This project is a high-performance Data Science pipeline designed to 
 extract actionable business insights from thousands of airline reviews.

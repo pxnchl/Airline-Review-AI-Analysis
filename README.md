@@ -28,4 +28,4 @@ This project is an end-to-end Data Science pipeline that analyzes **6,000+ custo
 2. Run the pipeline: `python run_project_v2.py`
 
 ---
-*Developed as a high-performance refactor of initial research scripts to demonstrate advanced ML/NLP capabilities.*
+*Developed by **meetp** in collaboration with Antigravity AI.*
